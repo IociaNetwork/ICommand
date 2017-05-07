@@ -1,0 +1,4 @@
+name: ICommand
+main: iocia.network.plugins.icommand.ICommandMain
+version: 1.0.0
+author: Hunky524
